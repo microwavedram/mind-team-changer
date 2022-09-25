@@ -1,10 +1,10 @@
-### Mindustry Team Changer
+# Mindustry Team Changer
 
 This should be a feature
 
 ## Commands
-# Server
+### Server
 teamlock - Toggles locking the /team command
-# Client
+### Client
 team <team> - Sets your team to the provided argument
  
